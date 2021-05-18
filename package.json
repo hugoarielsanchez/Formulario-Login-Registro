@@ -1,0 +1,22 @@
+{
+  "name": "formularioweb",
+  "version": "1.0.0",
+  "description": "Iniciando un Formulario Web",
+  "main": "servidor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugoarielsanchez/FormularioWeb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hugoarielsanchez/FormularioWeb/issues"
+  },
+  "homepage": "https://github.com/hugoarielsanchez/FormularioWeb#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
