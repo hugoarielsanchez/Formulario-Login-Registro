@@ -44,7 +44,7 @@ app.get("/register", function (req, res) {
 });
 
 // Formulario para registro de usuarios
-app.post("/", function (req, res) {
+app.post("/register", function (req, res) {
     const user = req.body.user;
     const password = req.body.password;
     const rePassword = req.body.rePassword;
